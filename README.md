@@ -1,52 +1,69 @@
-# README.md
-<!-- README.md — PARTE 1/4 -->
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM BOOT // README                         ║
+║ Replace every {{...}} placeholder before publishing.                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101820,100:00F5FF&height=180&section=header&text=SYSTEM%20BOOT&fon
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101820,100:00F5FF&height=180&section=header&text=SYSTEM%20BOOT&fontSize=42&fontColor=00F5FF&fontAlignY=35&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
+
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/VictorMirandaO
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/victorolivei[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=google-chrome&logoColor=00F5FF)]({{SEU_PORTFOLIO}})
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+Cybersecurity;OSINT+%7C+Ethical+Hacking+%7C+Web+Development;Building+systems.+Breaking+systems.+Understanding+systems.;%3E%3E+ACCESS+GRANTED+%7C+WELCOME+TO+MY+PROFILE" alt="Typing SVG"/>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/{{SEU_USUARIO_GITHUB}})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/{{SEU_LINKEDIN}})
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=google-chrome&logoColor=00F5FF)]({{SEU_PORTFOLIO}})
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:{{SEU_EMAIL}})
+
 </div>
+
 ---
+
 ## `> whoami`
+
 <table>
 <tr>
 <td width="60%" valign="top">
-```text
+
+'''text
 ┌──[ {{SEU_USUARIO_GITHUB}}@github ]──[ ~/profile ]
 │
 ├─ $ whoami
-│ └─ Software Engineering Student
+│  └─ Software Engineering Student
 │
 ├─ $ focus --current
-│ ├─ Software Development
-│ ├─ Cybersecurity
-│ ├─ OSINT
-│ ├─ Ethical Hacking
-│ └─ Web Development
+│  ├─ Software Development
+│  ├─ Cybersecurity
+│  ├─ OSINT
+│  ├─ Ethical Hacking
+│  └─ Web Development
 │
 ├─ $ learning --now
-│ ├─ Programming & Software Architecture
-│ ├─ Cybersecurity Fundamentals
-│ ├─ Linux & Networking
-│ ├─ Cloud Computing
-│ └─ Secure Web Applications
+│  ├─ Programming & Software Architecture
+│  ├─ Cybersecurity Fundamentals
+│  ├─ Linux & Networking
+│  ├─ Cloud Computing
+│  └─ Secure Web Applications
 │
 ├─ $ mission
-│ └─ Build reliable systems while
-│ understanding how they can fail.
+│  └─ Build reliable systems while
+│     understanding how they can fail.
 │
 └─ $ status
-└─ ONLINE // ALWAYS LEARNING
-```
-</td>
-<td width="40%" align="center">
-<img src="https://skillicons.dev/icons?i=github,linux,vscode,git,githubactions&theme=dark">
+   └─ ONLINE // ALWAYS LEARNING
+'''
+</td> <td width="40%" align="center" valign="middle"> <img src="https://skillicons.dev/icons?i=github,linux,vscode,git,githubactions&theme=dark" />
+
 <br><br>
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=050505)
-![THREAT](https://img.shields.io/badge/THREAT_LEVEL-LOW-00F5FF?style=for-the-badge&labelColor=050505)
-</td>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=050505"/> 
+<img src="https://img.shields.io/badge/THREAT_LEVEL-LOW-00F5FF?style=for-the-badge&labelColor=050505"/> 
+/td>
 </tr>
 </table>
 ---
@@ -148,23 +165,19 @@ MISSION :: {{OBJETIVO_04}}
 </table>
 ---
 # `04 // GITHUB TELEMETRY`
-<div align="center">
-<a href="https://github.com/{{SEU_USUARIO_GITHUB}}">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username={{SEU_USUARIO_GITHUB}}&show_icons=true&theme=transparent&hide_border=
+<div align="center"> <a href="https://github.com/VictorMirandaO"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=VictorMirandaO&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
 </a>
-<a href="https://github.com/{{SEU_USUARIO_GITHUB}}">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{SEU_USUARIO_GITHUB}}&layout=compact&theme=transparent&hi
-</a>
+<a href="https://github.com/VictorMirandaO"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMirandaO&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=00F5FF&text_color=FFFFFF"/></a>
 </div>
 ---
 # `05 // ACTIVITY GRAPH`
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={{SEU_USUARIO_GITHUB}}&bg_color=050505&color=00F5FF&line=00F5FF&point=F
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorMirandaO&bg_color=050505&color=00F5FF&line=00F5FF&point=F
 </div>
 ---
 # `06 // ACHIEVEMENT PROTOCOL`
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username={{SEU_USUARIO_GITHUB}}&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&colu
+<img src="https://github-profile-trophy.vercel.app/?username=VictorMirandaO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column
 </div>
 ---
 # `07 // CONTRIBUTION MATRIX`
@@ -174,7 +187,7 @@ MISSION :: {{OBJETIVO_04}}
 ║ CONTRIBUTION GRID // ONLINE ║
 ║ ║
 ║ █ █ █ ███ █ █ ████ █ █ ███ █ ████ ║
-║ ███ █ █ █ ███ █ ███ █ █ █ █ ║
+║ ███ █ █ █ ███ █ ███ █ █ █ █       ║
 ║ █ ███ █ █ █ ███ ███ █ █ █ ███ ████ ║
 ║ ║
 ║ KEEP BUILDING. KEEP CONTRIBUTING. ║
@@ -184,7 +197,7 @@ MISSION :: {{OBJETIVO_04}}
 ---
 # `08 // SNAKE PROTOCOL`
 <div align="center">
-<img src="https://raw.githubusercontent.com/{{SEU_USUARIO_GITHUB}}/{{SEU_USUARIO_GITHUB}}/output/github-contribution-grid-snake.svg" width="100%
+<img src="https://raw.githubusercontent.com/VictorMirandaO/VictorMirandaO/output/github-contribution-grid-snake.svg" width="100%
 </div>
 > **REQUIREMENT:** the Snake image needs a GitHub Action in the profile repository to generate `output/github-contribution-grid-snake.svg`.
 ### `.github/workflows/snake.yml`
@@ -227,10 +240,10 @@ There is always another system to understand.
 ---
 # `10 // CONTACT`
 <div align="center">
-<a href="https://github.com/{{SEU_USUARIO_GITHUB}}">
+<a href="https://github.com/VictorMirandaO}">
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00F5FF">
 </a>
-<a href="https://linkedin.com/in/{{SEU_LINKEDIN}}">
+<a href="https://linkedin.com/in/victorolivei">
 <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF">
 </a>
 <a href="{{SEU_PORTFOLIO}}">
@@ -241,4 +254,4 @@ There is always another system to understand.
 </a>
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:101820,100:050505&height=100&section=footer" width="100%">
-<sub>© {{ANO}} {{SEU_NOME}} · Built with curiosity, code & controlled chaos.</sub>
+<sub>© 2026 Victor Miranda Oliveira · Built with curiosity, code & controlled chaos.</sub>
