@@ -24,13 +24,13 @@
 
 ---
 
-## '> whoami'
+##´> whoami´
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-'''text
+´´´text
 ┌──[ VictorMirandaO@github ]──[ ~/profile ]
 │
 ├─ $ whoami
@@ -56,7 +56,7 @@
 │
 └─ $ status
    └─ ONLINE // ALWAYS LEARNING
-'''
+´´´
 </td> <td width="40%" align="center" valign="middle"> <img src="https://skillicons.dev/icons?i=github,linux,vscode,git,githubactions&theme=dark" />
 
 <br><br>
