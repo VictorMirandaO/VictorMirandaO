@@ -4,9 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101820,100:00F5FF&height=180&section=header&text=SYSTEM%20BOOT&fon
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/{{SEU_USUARIO_GITHUB
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/{{SEU_LIN
-[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=google-chrome&logoColor=00F5FF)]({{SEU_PORTFOLIO}})
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/VictorMirandaO
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/victorolivei[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=google-chrome&logoColor=00F5FF)]({{SEU_PORTFOLIO}})
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:{{SEU_EMAIL}})
 </div>
 ---
