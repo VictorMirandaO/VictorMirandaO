@@ -15,8 +15,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/{{SEU_USUARIO_GITHUB}})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/{{SEU_LINKEDIN}})
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/VictorMirandaO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/victorolivei)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=google-chrome&logoColor=00F5FF)]({{SEU_PORTFOLIO}})
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:{{SEU_EMAIL}})
 
@@ -24,14 +24,14 @@
 
 ---
 
-## `> whoami`
+## '> whoami'
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
 '''text
-┌──[ {{SEU_USUARIO_GITHUB}}@github ]──[ ~/profile ]
+┌──[ VictorMirandaO@github ]──[ ~/profile ]
 │
 ├─ $ whoami
 │  └─ Software Engineering Student
