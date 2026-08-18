@@ -30,7 +30,8 @@
 <tr>
 <td width="60%" valign="top">
 
-´´´text
+´´´
+text
 ┌──[ VictorMirandaO@github ]──[ ~/profile ]
 │
 ├─ $ whoami
